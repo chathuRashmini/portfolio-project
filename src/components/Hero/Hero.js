@@ -10,14 +10,14 @@ const Hero = () => (
       <LeftSection>
         <SectionTitle main center>
           Hello there! <br />
-          I'm Chathu :)
+          Welcome to my portfolio.
         </SectionTitle>
 
         <SectionText>
-          An undergraduate  |  A developer  |  A UI/UX designer
+          A full-stack developer  |  A UI/UX designer
         </SectionText>
 
-        <Button onClick={() => window.location = 'https://www.linkedin.com/in/chathumi-kumarapeli-b66598214/?msgControlName=reply_to_sender&msgConversationId=2-NmQzZTc2ZWUtMjk2NC00OWVkLWExOTgtMmQ0M2RiMjE4ODgwXzAxMA%3D%3D&msgOverlay=true'}>
+        <Button onClick={() => window.location = 'https://www.linkedin.com'}>
           Learn More...
         </Button>
       </LeftSection>

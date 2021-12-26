@@ -37,11 +37,11 @@ const Header = () =>  (
     </Div2>
 
     <Div3>
-      <SocialIcons href='https://github.com/chathuRashmini'>
+      <SocialIcons href='https://github.com'>
         <AiFillGithub size='3rem' />
       </SocialIcons>
 
-      <SocialIcons href='https://www.linkedin.com/in/chathumi-kumarapeli-b66598214/?msgControlName=reply_to_sender&msgConversationId=2-NmQzZTc2ZWUtMjk2NC00OWVkLWExOTgtMmQ0M2RiMjE4ODgwXzAxMA%3D%3D&msgOverlay=true'>
+      <SocialIcons href='https://www.linkedin.com'>
         <AiFillLinkedin size='3rem' />
       </SocialIcons>
 
